@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand');
+
+#container {
+  background-color: pink;
+}
+
+.div-formatting {
+  display: flex;
+  justify-content: center;
+}
+
+.title-text-formatting {
+  padding: 5px;
+  font-size: 4em;
+  text-align: center;
+  font-family: 'Just Another Hand';
+}
+
+.btn-formatting {
+  color: black;
+  background-color: gray;
+  font-family: 'Just Another Hand';
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-style: none;
+  display: block;
+  font-size: 2em;
+}
+
+.btn-formatting:hover {
+  color: white;
+}
+
+#img {
+  width: 100px;
+}
+
+.lollipop-images {
+  width: 200px;
+  height: 250px;
+  margin: 10px;
+}
+
+.game-result-formatting {
+  padding: 5px;
+  font-size: 2.5em;
+  text-align: center;
+  font-family: 'Just Another Hand';
+}
+
+.hidden {
+  visibility: hidden; 
+}
